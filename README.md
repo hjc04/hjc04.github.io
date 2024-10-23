@@ -1,2 +1,2 @@
-# hjc04.github.io
-IT101
+##cd to get to home directory
+#ls to list content
